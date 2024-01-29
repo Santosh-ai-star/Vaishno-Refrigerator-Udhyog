@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Vaishno-Refrigerator-Udhyog",
+			"path": "D:/Vaishno-Refrigerator-Udhyog"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
